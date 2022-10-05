@@ -12,3 +12,4 @@
 11-lists displays all files in the current working directory, parent directory and boot directory
 12-file_type is a script that creates a file iamafile in the directory tmp and thenprints the file file type of iamafile
 13-symbolic_link is a scrip which has a a link __ls__ to /bin/ls
+14-copy_html i a script to copy html files from current directory to the parent directory of the working directory
