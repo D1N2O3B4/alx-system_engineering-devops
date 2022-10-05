@@ -11,3 +11,4 @@
 10-back script to change back to previous directory from current working directory
 11-lists displays all files in the current working directory, parent directory and boot directory
 12-file_type is a script that creates a file iamafile in the directory tmp and thenprints the file file type of iamafile
+13-symbolic_link is a scrip which has a a link __ls__ to /bin/ls
