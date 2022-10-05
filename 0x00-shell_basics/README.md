@@ -9,3 +9,4 @@
 8-firstdelete deletes the file betty from /tmp/my_first_directory
 9-firstdirdeletion delete the directory my_first_directory
 10-back script to change back to previous directory from current working directory
+11-lists displays all files in the current working directory, parent directory and boot directory
