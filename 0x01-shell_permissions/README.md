@@ -7,3 +7,4 @@
 6-multiple_permissions gives execute permisons to the user and group owner but read permisions to the other users
 7-everybody gives execute permissions to user group owner and other users
 8-James_Bond script to give no permissions to user and group owner but all permissions to other users therefore 007
+9-John_Doe script to give user all permissions , group only read and execute and others write and execute
