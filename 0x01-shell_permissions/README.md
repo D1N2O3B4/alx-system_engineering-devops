@@ -8,3 +8,7 @@
 7-everybody gives execute permissions to user group owner and other users
 8-James_Bond script to give no permissions to user and group owner but all permissions to other users therefore 007
 9-John_Doe script to give user all permissions , group only read and execute and others write and execute
+10-mirror_permissions script to set hello's file mode to the same mode as olleh
+11-directories_permissions is a script which adds execute permission to all subdirectories of the current directory to the user the group and  other users.
+12-directory_permissions creates my_ir which is a directory with permissions 751
+13-change_group is a script which changes the file hello's group owner to school
